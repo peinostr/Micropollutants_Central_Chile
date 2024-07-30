@@ -3,4 +3,4 @@ This repository encompasses the environmental concentrations of micropollutants,
 
 Citations:
 
-Dataset only DOI: https://zenodo.org/badge/835731197.svg
+Dataset only DOI: [![DOI](https://zenodo.org/badge/835731197.svg)](https://zenodo.org/doi/10.5281/zenodo.13134181)
